@@ -53,10 +53,12 @@ The dashboards provide insights into **financial performance** and **supply-dema
 
 ## 📸 Screenshots
 ### Financial KPIs Dashboard
-![Financial Dashboard](./screenshots/page2.png)
+
+<img width="1861" height="846" alt="Screenshot 2025-09-22 083256" src="https://github.com/user-attachments/assets/c6179a5c-9252-4ab7-bab6-46613ef66243" />
 
 ### Supply-Demand Dashboard
-![Supply-Demand Dashboard](./screenshots/page1.png)
+
+<img width="1865" height="857" alt="Screenshot 2025-09-22 083229" src="https://github.com/user-attachments/assets/6893fb7d-a8f4-4313-acd3-bd313f5ef137" />
 
 ---
 
